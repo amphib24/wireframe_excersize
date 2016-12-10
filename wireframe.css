@@ -1,0 +1,43 @@
+body{
+  padding-top:30px;
+}
+header{
+  position: relative;
+  width: 100%;
+  background-color: grey;
+}
+nav{
+  padding-left:150px;
+
+}
+.pic1{
+  paddin-left:0;
+}
+nav ul{
+width: 100%;
+top: 0;
+display: inline;
+
+}
+nav li{
+  display: inline;
+  padding:30px;
+  max-width: 960px;
+}
+main{
+  max-width: 960px;
+  padding-left:150px;
+  padding-top:30px;
+}
+.pic2{
+  padding-left:0px;
+}
+main ul{
+  padding-top:30px;
+  width: 100%;
+}
+main ul li{
+  display: inline;
+  /*padding:25px;*/
+  max-width:960px;
+}
