@@ -35,9 +35,27 @@ main{
 main ul{
   padding-top:30px;
   width: 100%;
+
 }
 main ul li{
   display: inline;
-  /*padding:25px;*/
-  max-width:960px;
+  padding-left: 20px;
+  max-width: 965px;
+
+}
+.fitdamnit li:lastchild{
+display:inline;
+
+}
+section{
+  max-width: 960px;
+  padding-top:30px;
+}
+section img {
+  float:left;
+  width:50%;
+}
+article{
+  float:right;
+  max-width: 50%
 }
