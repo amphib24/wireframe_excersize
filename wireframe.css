@@ -1,4 +1,3 @@
-
 html body{
   padding-top: 30px;
   padding-bottom: 30px;
@@ -30,7 +29,6 @@ main{
   max-width: 960px;
   padding-left: 150px;
   padding-top: 30px;
-
 }
 .pic2{
   padding-left: 0px;
@@ -46,7 +44,7 @@ main ul li{
   max-width: 960px;
 }
 .fitdamnit li:last-child{
-  clear:both;
+  clear: both;
 }
  section{
   padding-top: 435px;
